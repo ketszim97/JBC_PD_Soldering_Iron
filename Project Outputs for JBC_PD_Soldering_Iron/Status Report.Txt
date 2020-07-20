@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [JBC_PD_Soldering_Iron.PrjPcb]
+   Generated File[JBC_PD.GTO]
+   Generated File[JBC_PD.RUL]
+   Generated File[JBC_PD.EXTREP]
+   Generated File[JBC_PD.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:06:38 PM On 2020-07-20

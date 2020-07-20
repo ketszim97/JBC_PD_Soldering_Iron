@@ -1,0 +1,14 @@
+*************************************************************
+FileName = JBC_PD.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : JBC_PD.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+
