@@ -2,13 +2,21 @@
 FileName = JBC_PD.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : JBC_PD.GTO
+Generating : Bottom Overlay
+      File : JBC_PD.GBO
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 
